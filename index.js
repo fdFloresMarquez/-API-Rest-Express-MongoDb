@@ -21,7 +21,7 @@ app.set('view engine', 'ejs')
 app.use(express.urlencoded({ extended: true }))
 app.use(methodOverride('_method'))
 
-const categories = ['fruit', 'vegetables', 'dairy'];
+const categories = ['fruit', 'vegetable', 'dairy'];
 
 app.get('/products', async (req, res) => {
     const { category } = req.query;
