@@ -8,8 +8,10 @@ Si quieren testearlo instalen las dependencias. Deben tener MongoDb instalado y 
 ```
 node index.js
 ```
-
-
+## Seed database
+```
+node seed.js
+```
 
 
 
