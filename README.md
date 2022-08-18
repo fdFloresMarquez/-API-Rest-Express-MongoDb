@@ -1,4 +1,4 @@
-# RESTFUL-CRUD-Mongoose
+# API-REST
 Servidor RESTful simple que hice mientras aprendia a conectar con Mongo utilizando Mongoose. (WebDevCourse)
 Puedes añadir productos, editarlos
 
